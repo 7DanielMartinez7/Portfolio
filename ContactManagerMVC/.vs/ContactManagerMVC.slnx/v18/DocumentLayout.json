@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|d:\\hojas de vida\\portfolio\\portfolio\\contactmanagermvc\\contactmanagermvc\\migrations\\20260513161519_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|solutionrelative:contactmanagermvc\\migrations\\20260513161519_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|d:\\hojas de vida\\portfolio\\portfolio\\contactmanagermvc\\contactmanagermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|solutionrelative:contactmanagermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|d:\\hojas de vida\\portfolio\\portfolio\\contactmanagermvc\\contactmanagermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|solutionrelative:contactmanagermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|d:\\hojas de vida\\portfolio\\portfolio\\contactmanagermvc\\contactmanagermvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|solutionrelative:contactmanagermvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|d:\\hojas de vida\\portfolio\\portfolio\\contactmanagermvc\\contactmanagermvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|solutionrelative:contactmanagermvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|d:\\hojas de vida\\portfolio\\portfolio\\contactmanagermvc\\contactmanagermvc\\controllers\\ejemplocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|solutionrelative:contactmanagermvc\\controllers\\ejemplocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|d:\\hojas de vida\\portfolio\\portfolio\\contactmanagermvc\\contactmanagermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A468C1-5891-300D-3D54-F610DFC7152C}|ContactManagerMVC\\ContactManagerMVC.csproj|solutionrelative:contactmanagermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260513161519_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Migrations\\20260513161519_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ContactManagerMVC\\Migrations\\20260513161519_InitialMigration.cs",
+              "ToolTip": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Migrations\\20260513161519_InitialMigration.cs",
+              "RelativeToolTip": "ContactManagerMVC\\Migrations\\20260513161519_InitialMigration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:15:19.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagerMVC\\Program.cs",
+              "ToolTip": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Program.cs",
+              "RelativeToolTip": "ContactManagerMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T00:16:35.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContactManagerMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContactManagerMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T13:40:11.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManagerMVC\\Models\\Contact.cs",
+              "ToolTip": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManagerMVC\\Models\\Contact.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:13:47.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactManagerMVC\\appsettings.json",
+              "ToolTip": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\appsettings.json",
+              "RelativeToolTip": "ContactManagerMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T00:02:24.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EjemploController.cs",
+              "DocumentMoniker": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Controllers\\EjemploController.cs",
+              "RelativeDocumentMoniker": "ContactManagerMVC\\Controllers\\EjemploController.cs",
+              "ToolTip": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Controllers\\EjemploController.cs",
+              "RelativeToolTip": "ContactManagerMVC\\Controllers\\EjemploController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:40:14.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactManagerMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Hojas de Vida\\Portfolio\\Portfolio\\ContactManagerMVC\\ContactManagerMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactManagerMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:42:42.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
