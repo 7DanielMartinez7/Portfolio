@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ContactManagerMVC.Models.Contact>
+
+@{
+	ViewData["Title"] = "Contacts List";
+}
+
+<h1 class="text-center">Contacts</h1>
+<p>
+	<a asp-action="Create" class="btn btn-primary">New Contact</a>
+</p>
+
+<table class=" table table-bordered table-striped">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Contact Name</th>
+			<th>Email</th>
+			<th>Phone</th>
+			<th>Adress</th>
+			<th style="with: 220px;">Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var contact in Model)
+		{
+			<tr>
+				<td>@contact.ContactId</td>
+				<td>@contact.Name</td>
+				<td>@contact.Email</td>
+				<td>@contact.Phone</td>
+				<td>@contact.Address</td>
+				<td>
+					<a asp-action="Edit"
+					asp-route-id ="@contact.ContactId"
+					class="btn btn-warning btn-sm">Edit</a>
+					<a asp-action="Edit"
+					   asp-route-id="@contact.ContactId"
+					   class="btn btn-info btn-sm">Detalle</a>
+					<a asp-action="Detail"
+					   asp-route-id="@contact.ContactId"	
+					   class="btn btn-darger btn-sm">Delete</a>
+				</td>
+
+			</tr>
+		}
+	</tbody>
+</table>

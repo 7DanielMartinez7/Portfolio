@@ -9,7 +9,7 @@ builder.Services.AddControllersWithViews();
 // Registrar DbContext
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(
-        builder.Configuration.GetConnectionString("Connection")
+        builder.Configuration.GetConnectionString("DefaultConnection")
     )
 );
 
